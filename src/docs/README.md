@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /logo.png
 actionText: 起步 →
 actionLink: /guide/
 footer: MIT Licensed | Copyright © 02mation.cn

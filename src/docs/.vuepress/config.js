@@ -40,7 +40,10 @@ module.exports = {
           },
           {
             text: '客户案例',
-            link: '/default-theme-config/'
+            items: [
+              { text: 'upython智能开发板', link: '/cases/upython/' },
+              { text: '水下滑翔机', link: '/cases/glider/' }
+            ]
           },
           {
             text: '关于我们',
