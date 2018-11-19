@@ -31,20 +31,16 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: [
           {
-            text: '产品服务',
-            link: '/guide/',
+            text: 'upython指南',
+            link: '/help/'
           },
-          {
-            text: '开发平台',
-            link: '/config/'
-          },
-          {
-            text: '客户案例',
-            items: [
-              { text: 'upython智能开发板', link: '/cases/upython/' },
-              { text: '水下滑翔机', link: '/cases/glider/' }
-            ]
-          },
+          // {
+          //   text: '客户案例',
+          //   items: [
+          //     { text: 'upython智能开发板', link: '/cases/upython/' },
+          //     { text: '水下滑翔机', link: '/cases/glider/' }
+          //   ]
+          // },
           {
             text: '关于我们',
             link: '/about/'

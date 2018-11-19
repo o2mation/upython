@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 actionText: 起步 →
 actionLink: /guide/
-footer: MIT Licensed | Copyright © 02mation.cn
+footer: MIT Licensed | Copyright © o2mation.cn
 ---
 
 <div style="text-align: center">
