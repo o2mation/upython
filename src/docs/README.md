@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 actionText: 起步 →
 actionLink: /guide/
-footer: MIT Licensed | Copyright © o2mation.cn
+footer: Copyright © o2mation.cn
 ---
 
 <div style="text-align: center">
@@ -13,11 +13,11 @@ footer: MIT Licensed | Copyright © o2mation.cn
 <div class="features">
   <div class="feature">
     <h2>upython</h2>
-    <p>upython是我司基于纯C进行开发的一款嵌入式python虚拟机。</p>
+    <p>upython是基于纯C开发的一款嵌入式python虚拟机。</p>
   </div>
   <div class="feature">
     <h2>upython IDE</h2>
-    <p>upython IDE是我司开发的一款支持upython的嵌入式集成开发环境</p>
+    <p>upython IDE是一款支持upython的嵌入式集成开发环境</p>
   </div>
   <div class="feature">
     <h2>upython物联网应用云平台</h2>
