@@ -34,13 +34,12 @@ module.exports = {
             text: 'upython指南',
             link: '/help/'
           },
-          // {
-          //   text: '客户案例',
-          //   items: [
-          //     { text: 'upython智能开发板', link: '/cases/upython/' },
-          //     { text: '水下滑翔机', link: '/cases/glider/' }
-          //   ]
-          // },
+          {
+            text: '客户案例',
+            items: [
+              { text: '基于upython少儿编程解决方案', link: '/cases/upython/' },
+            ]
+          },
           {
             text: '关于我们',
             link: '/about/'
